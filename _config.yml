@@ -1,0 +1,14 @@
+layout_spectrum: 0.06277908990159631
+typography_spectrum: 0.8698208215646446
+color:
+  brandStrength: 0.727839078521356
+  lightness: 0.9957925023045391
+  saturation: 0.2682241990696639
+  rhythmicContrast: 0.26243056170642376
+  brandColors:
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
+name: dAbTheGrid
