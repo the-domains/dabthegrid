@@ -1,4 +1,3 @@
-layout_spectrum: 0.06277908990159631
 typography_spectrum: 0.8698208215646446
 color:
   brandStrength: 0.727839078521356
@@ -11,4 +10,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.06277908990159631
 name: dAbTheGrid
+title: dAb
